@@ -1,0 +1,86 @@
+.titulo{
+    text-align: center;
+    text-decoration: Serif;
+    vertical-align: top;
+    font-family: inherit;
+    font-size: 70PX;
+    font-style: italic;
+    color: #491602;
+    background: hsl(17, 31%, 33%);
+}
+
+.his{
+    text-align: center;
+    text-decoration: monospace;
+    vertical-align: top;
+    font-family: inherit;
+    font-size: 40PX;
+    font-style: italic;
+    color: black;
+    background: #ab7f6e;
+}
+
+.per{
+    text-align: center;
+    text-decoration: monospace;
+    vertical-align: top;
+    font-family: inherit;
+    font-size: 20PX;
+    font-style: italic;
+    color: black;
+    background: #ab7f6e;
+}
+
+.hor{
+    text-align: center;
+    text-decoration: monospace;
+    vertical-align: top;
+    font-family: inherit;
+    font-size: 20PX;
+    font-style: italic;
+    color: black;
+    background: #ab7f6e;
+}
+
+.ubi{
+    text-align: center;
+    text-decoration: monospace;
+    vertical-align: top;
+    font-family: inherit;
+    font-size: 20PX;
+    font-style: italic;
+    color: black;
+    background: #ab7f6e;
+}
+
+.ag{
+    text-align: center;
+    text-decoration: monospace;
+    vertical-align: top;
+    font-family: inherit;
+    font-size: 20PX;
+    font-style: italic;
+    color: black;
+    background: #ab7f6e;
+}
+.PR1{
+    text-align: center;
+    text-decoration: monospace;
+    vertical-align: top;
+    font-family: inherit;
+    font-size: 20PX;
+    font-style: italic;
+    color: black;
+    background: #ab7f6e;
+}
+.pie{
+    text-align: center;
+    text-decoration: Serif;
+    vertical-align: top;
+    font-family: inherit;
+    font-size: 29PX;
+    font-style: italic;
+    color: #FFFFFF;
+    background: #6D4839;
+}
+

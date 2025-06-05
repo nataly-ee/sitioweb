@@ -1,0 +1,201 @@
+.titulo{
+    text-align: center;
+    text-decoration: Serif;
+    vertical-align: top;
+    font-family: inherit;
+    font-size: 70PX;
+    font-style: italic;
+    color: #491602;
+    background: #6D4839;
+}
+
+.his{
+    text-align: center;
+    text-decoration: monospace;
+    vertical-align: top;
+    font-family: inherit;
+    font-size: 40PX;
+    font-style: italic;
+    color: black;
+}
+
+.per{
+    text-align: center;
+    text-decoration: monospace;
+    vertical-align: top;
+    font-family: inherit;
+    font-size: 20PX;
+    font-style: italic;
+    color: black;
+    background: #ab7f6e;
+}
+
+.hor{
+    text-align: center;
+    text-decoration: monospace;
+    vertical-align: top;
+    font-family: inherit;
+    font-size: 20PX;
+    font-style: italic;
+    color: black;
+    background: #ab7f6e;
+}
+
+.ubi{
+    text-align: center;
+    text-decoration: monospace;
+    vertical-align: top;
+    font-family: inherit;
+    font-size: 20PX;
+    font-style: italic;
+    color: black;
+    background: #ab7f6e;
+}
+LI{
+    text-align: center;
+    text-decoration: sherif;
+    vertical-align: top;
+    font-family: inherit;
+    font-size: 40PX;
+    font-style: italic;
+    color: rgb(83, 26, 195);
+    }
+
+.ag{
+    text-align: center;
+    text-decoration: monospace;
+    vertical-align: top;
+    font-family: inherit;
+    font-size: 20PX;
+    font-style: italic;
+    color: black;
+    background: #ab7f6e;
+}
+.pie{
+    text-align: center;
+    text-decoration: Serif;
+    vertical-align: top;
+    font-family: inherit;
+    font-size: 29PX;
+    font-style: italic;
+    color: #FFFFFF;
+    background: #6D4839;
+}
+
+form {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #ffffff;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+     text-align: center;
+    text-decoration: Serif;
+    vertical-align: top;
+    font-family: inherit;
+    font-size: 70PX;
+    font-style: italic;
+    color: #491602;
+    background: #6D4839;
+    
+}
+h2 {
+     text-align: center;
+    text-decoration: Serif;
+    vertical-align: top;
+    font-family: inherit;
+    font-size: 70PX;
+    font-style: italic;
+    color: #491602;
+    background: #6D4839;
+    
+}
+
+header h4 img {
+    width: 200px;
+    height: auto;
+    float: left;
+    position:absolute;
+    left: 1610px;
+    top:1140PX;
+    width:150PX;
+    height:160PX;
+}
+
+header h3 img  {
+    width: 200px;
+    height: auto;
+    float: right ;
+    position:absolute;
+    left: 50px;
+    top: 1140px;
+    width:150PX;
+    height: 160px;
+    
+}
+
+header h5 img  {
+    width: 200px;
+    height: auto;
+    float: right ;
+    position:absolute;
+    left: 580px;
+    top: 1140px;
+    width:640PX;
+    height: 160px;
+    
+}
+
+
+/* Estilo para la tabla dentro del formulario */
+form table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+/* Celdas de la tabla */
+form td {
+    padding: 10px;
+    vertical-align: top;
+}
+
+/* Campos de entrada, select y textarea */
+form input[type="text"],
+form input[type="email"],
+form input[type="tel"],
+form input[type="date"],
+form input[type="time"],
+form select,
+form textarea {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #bbb;
+    border-radius: 4px;
+    font-size: 14px;
+    box-sizing: border-box;
+}
+
+/* Botón de envío */
+form button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background-color: #4b8b8b;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 15px;
+}
+
+/* Efecto hover del botón */
+form button:hover {
+    background-color: #3b6e6e;
+}
+
+

@@ -1,0 +1,75 @@
+.titulo{
+    text-align: center;
+    text-decoration: Serif;
+    vertical-align: top;
+    font-family: inherit;
+    font-size: 70PX;
+    font-style: italic;
+    color: #491602;
+    background: #6D4839;
+}
+
+.his{
+    text-align: center;
+    text-decoration: monospace;
+    vertical-align: top;
+    font-family: inherit;
+    font-size: 40PX;
+    font-style: italic;
+    color: black;
+}
+
+.per{
+    text-align: center;
+    text-decoration: monospace;
+    vertical-align: top;
+    font-family: inherit;
+    font-size: 20PX;
+    font-style: italic;
+    color: black;
+    background: #ab7f6e;
+}
+
+.hor{
+    text-align: center;
+    text-decoration: monospace;
+    vertical-align: top;
+    font-family: inherit;
+    font-size: 20PX;
+    font-style: italic;
+    color: black;
+    background: #ab7f6e;
+}
+
+.ubi{
+    text-align: center;
+    text-decoration: monospace;
+    vertical-align: top;
+    font-family: inherit;
+    font-size: 20PX;
+    font-style: italic;
+    color: black;
+    background: #ab7f6e;
+}
+
+.ag{
+    text-align: center;
+    text-decoration: monospace;
+    vertical-align: top;
+    font-family: inherit;
+    font-size: 20PX;
+    font-style: italic;
+    color: black;
+    background: #ab7f6e;
+}
+.pie{
+    text-align: center;
+    text-decoration: Serif;
+    vertical-align: top;
+    font-family: inherit;
+    font-size: 29PX;
+    font-style: italic;
+    color:   #FFFFFF;
+    background: #6D4839;
+}
+

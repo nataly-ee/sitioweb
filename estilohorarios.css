@@ -1,0 +1,166 @@
+.titulo{
+    text-align: center;
+    text-decoration: Serif;
+    vertical-align: top;
+    font-family: inherit;
+    font-size: 70PX;
+    font-style: italic;
+    color: #491602;
+    background: #6D4839;
+}
+
+.his{
+    text-align: center;
+    text-decoration: monospace;
+    vertical-align: top;
+    font-family: inherit;
+    font-size: 40PX;
+    font-style: italic;
+    color: black;
+    background: #ab7f6e;
+}
+
+.per{
+    text-align: center;
+    text-decoration: monospace;
+    vertical-align: top;
+    font-family: inherit;
+    font-size: 20PX;
+    font-style: italic;
+    color: black;
+    background: #ab7f6e;
+}
+
+.hor{
+    text-align: center;
+    text-decoration: monospace;
+    vertical-align: top;
+    font-family: inherit;
+    font-size: 20PX;
+    font-style: italic;
+    color: black;
+    background: #ab7f6e;
+}
+
+.ubi{
+    text-align: center;
+    text-decoration: monospace;
+    vertical-align: top;
+    font-family: inherit;
+    font-size: 20PX;
+    font-style: italic;
+    color: black;
+    background: #ab7f6e;
+}
+
+.ag{
+    text-align: center;
+    text-decoration: monospace;
+    vertical-align: top;
+    font-family: inherit;
+    font-size: 20PX;
+    font-style: italic;
+    color: black;
+    background: #ab7f6e;
+}
+.PR1{
+    text-align: center;
+    text-decoration: monospace;
+    vertical-align: top;
+    font-family: inherit;
+    font-size: 50PX;
+    font-style: italic;
+    color: black;
+    background: #ab7f6e;
+}
+
+LI{
+    text-decoration: monospace;
+    vertical-align: top;
+    font-family: inherit;
+    font-size: 30PX;
+    font-style: italic;
+    color: #CA9E7B;
+    }
+ header h1 img {
+    width: 300px;
+    height: auto;
+    float: left;
+    position:absolute;
+    left: 990px;
+    top:250PX;
+    width:300PX;
+    height:300PX;
+}
+
+ header h2 img {
+    width: 300px;
+    height: auto;
+    float: left;
+    position:absolute;
+    left: 1000px;
+    top:750PX;
+    width:200PX;
+    height:195PX;
+}
+
+.table{
+    text-align: left;
+    text-decoration: monospace;
+    vertical-align: top;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20PX;
+    font-style: italic;
+    color: black;
+    background: #ab7f6e;
+}
+
+
+.pie{
+    text-align: center;
+    text-decoration: Serif;
+    vertical-align: top;
+    font-family: inherit;
+    font-size: 29PX;
+    font-style: italic;
+    color: #FFFFFF;
+    background: #6D4839;
+}
+
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    padding: 20px;
+}
+
+table {
+    width: 80%;
+    margin: auto;
+    border-collapse: collapse;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: #ffffff;
+}
+
+th, td {
+    border: 1px solid #ccc;
+    padding: 10px 15px;
+    text-align: left;
+}
+
+th {
+    background-color: #5a16ed9f;
+    color: white;
+    font-weight: bold;
+}s
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+caption {
+    caption-side: top;
+    text-align: center;
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}

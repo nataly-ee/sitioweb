@@ -1,0 +1,123 @@
+.titulo{
+    text-align: center;
+    text-decoration: Serif;
+    vertical-align: top;
+    font-family: inherit;
+    font-size: 70PX;
+    font-style: italic;
+    color: #491602;
+    background: #6D4839;
+}
+
+.his{
+    text-align: center;
+    text-decoration: monospace;
+    vertical-align: top;
+    font-family: inherit;
+    font-size: 40PX;
+    font-style: italic;
+    color: black;
+    background: #ab7f6e;
+}
+
+.per{
+    text-align: center;
+    text-decoration: monospace;
+    vertical-align: top;
+    font-family: inherit;
+    font-size: 20PX;
+    font-style: italic;
+    color: black;
+    background: #ab7f6e;
+}
+
+.hor{
+    text-align: center;
+    text-decoration: monospace;
+    vertical-align: top;
+    font-family: inherit;
+    font-size: 20PX;
+    font-style: italic;
+    color: black;
+    background: #ab7f6e;
+}
+
+.ubi{
+    text-align: center;
+    text-decoration: monospace;
+    vertical-align: top;
+    font-family: inherit;
+    font-size: 20PX;
+    font-style: italic;
+    color: black;
+    background: #ab7f6e;
+}
+
+.ag{
+    text-align: center;
+    text-decoration: monospace;
+    vertical-align: top;
+    font-family: inherit;
+    font-size: 20PX;
+    font-style: italic;
+    color: black;
+    background: #ab7f6e;
+}
+.PR1{
+
+    text-align: center;
+    text-decoration: Serif;
+    vertical-align: top;
+    font-family: inherit;
+    font-size: 50PX;
+    font-style: italic;
+    color: #491602;
+    background: #ab7f6e;
+}
+
+LI{
+    text-decoration: monospace;
+    vertical-align: top;
+    font-family: inherit;
+    font-size: 30PX;
+    font-style: italic;
+    color: rgb(83, 26, 195);
+    }
+
+ header h1 img {
+    width: 300px;
+    height: auto;
+    float: left;
+    position:absolute;
+    left: 1300px;
+    top:230PX;
+    width:300PX;
+    height:300PX;
+}
+
+ 
+
+.table{
+    text-align: left;
+    text-decoration: monospace;
+    vertical-align: top;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20PX;
+    font-style: italic;
+    color: black;
+    background: #ab7f6e;
+}
+
+
+.pie{
+    text-align: center;
+    text-decoration: Serif;
+    vertical-align: top;
+    font-family: inherit;
+    font-size: 29PX;
+    font-style: italic;
+    color:#FFFF;
+    background: #6D4839;
+}
+
+
